@@ -27,7 +27,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Farazulhaque/Farazulhaque">
-  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=15" />
 </a>
 <br>
 <a href="https://github.com/Farazulhaque/Farazulhaque">
