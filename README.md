@@ -34,3 +34,6 @@
 <a href="https://github.com/Farazulhaque/Farazulhaque">
   <img width=500 height=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&layout=compact)](https://github.com/Farazulhaque/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&layout=compact)](https://github.com/Farazulhaque/github-readme-stats)
