@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Farazulhaque.visitor-badge" />
 
-# Hello, Friends! 
+# Hello, Friends!
 
 - 🔭 I’m currently working on Front-end Web development projects
 
@@ -24,21 +24,14 @@
 ![](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-
 ## Most Used Languages
 
-<a href="https://github.com/Farazulhaque/Farazulhaque">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 
 ## Waka Time Stats
 
-<a href="https://github.com/Farazulhaque/Farazulhaque">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ## GitHub Stats
 
-<a href="https://github.com/Farazulhaque/Farazulhaque">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farazulhaque&show_icons=true&line_height=30&hide=contribs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faraz's GitHub Stats" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Farazulhaque&show_icons=true&line_height=30&hide=contribs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faraz's GitHub Stats" />
