@@ -39,3 +39,7 @@
 <a href="https://github.com/Farazulhaque/Farazulhaque">
    <img width=500 src="https://github-readme-stats.vercel.app/api/wakatime?username=Farazulhaque&layout=compact" />
 </a>
+<br>
+<a href="https://github.com/Farazulhaque/Farazulhaque">
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Farazulhaque.visitor-badge" />
+</a>
