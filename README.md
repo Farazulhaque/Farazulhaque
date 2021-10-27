@@ -1,4 +1,8 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=Farazulhaque.visitor-badge" />
+<img align="right" src="https://page-views.glitch.me/badge?page_id=Farazulhaque" />
+<!-- <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=Farazulhaque" /> -->
+<!-- <img src="https://page-views.glitch.me/badge?page_id=Farazulhaque" alt="visitor badge"/> -->
+<!-- ![visitors](https://page-views.glitch.me/badge?page_id=Farazulhaque) -->
+
 
 # Hello, Friends!
 
