@@ -33,7 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 
 ## Waka Time Stats
-
+<a href="https://wakatime.com/@fd3688b2-248b-4941-a1e6-b74fc01f5910"><img src="https://wakatime.com/badge/user/fd3688b2-248b-4941-a1e6-b74fc01f5910.svg?style=plastic" alt="Total time coded since Jul 18 2021" align="right"/></a>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 ## GitHub Stats
