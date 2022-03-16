@@ -6,17 +6,17 @@
 <div id="header" align="center" style="width: 100%; margin: auto;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/md-farazul-haque-b42200127/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=917596885401&text=Hi%20there!%20I%20have%20a%20question%20:%29">
-      <img src="https://img.shields.io/static/v1?style=for-the-badge&label= &message=WhatsApp&color=Green" alt="Whatsapp Badge"/>
-    </a>
+	<a href="https://www.linkedin.com/in/md-farazul-haque-b42200127/">
+	  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
+	<a href="https://api.whatsapp.com/send?phone=917596885401&text=Hi%20there!%20I%20have%20a%20question%20:%29">
+	  <img src="https://img.shields.io/static/v1?style=for-the-badge&label= &message=WhatsApp&color=Green" alt="Whatsapp Badge"/>
+	</a>
   </div>
   <h1>Hello, Friends!</h1>
 </div>
-<hr>
 <!-- <img src="https://komarev.com/ghpvc/?username=Farazulhaque&style=flat-square&color=blue" alt=""/> -->
+
 - 🔭 I’m currently working on Front-end Web development projects
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Php and Tkinter
@@ -44,6 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
 
 ## Waka Time Stats
+
 <a href="https://wakatime.com/@fd3688b2-248b-4941-a1e6-b74fc01f5910"><img src="https://wakatime.com/badge/user/fd3688b2-248b-4941-a1e6-b74fc01f5910.svg?style=plastic" alt="Total time coded since Jul 18 2021" align="right"/></a>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
