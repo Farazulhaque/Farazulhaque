@@ -2,10 +2,21 @@
 <!-- <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=Farazulhaque" /> -->
 <!-- <img src="https://page-views.glitch.me/badge?page_id=Farazulhaque" alt="visitor badge"/> -->
 <!-- ![visitors](https://page-views.glitch.me/badge?page_id=Farazulhaque) -->
-
-
-# Hello, Friends!
-
+<br>
+<div id="header" align="center" style="width: 100%; margin: auto;">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/md-farazul-haque-b42200127/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=917596885401&text=Hi%20there!%20I%20have%20a%20question%20:%29">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label= &message=WhatsApp&color=Green" alt="Whatsapp Badge"/>
+    </a>
+  </div>
+  <h1>Hello, Friends!</h1>
+</div>
+<hr>
+<!-- <img src="https://komarev.com/ghpvc/?username=Farazulhaque&style=flat-square&color=blue" alt=""/> -->
 - 🔭 I’m currently working on Front-end Web development projects
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Php and Tkinter
