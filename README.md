@@ -51,3 +51,5 @@
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farazulhaque&show_icons=true&line_height=30&hide=contribs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faraz's GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=Farazulhaque&theme=soft-green" />
