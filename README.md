@@ -17,9 +17,9 @@
 </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=Farazulhaque&style=flat-square&color=blue" alt=""/> -->
 
-- 🔭 I’m currently working on Front-end Web development projects
+- 🔭 I’m currently working as a Software Engineer at ARC DOCUMENT SOLUTION.
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Php and Tkinter
+- 🌱 I’m currently learning Spring Boot.
 
 - 👯 I’m looking to collaborate on Web designing
 
