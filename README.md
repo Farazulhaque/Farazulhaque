@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=650&lines=4.5%2B+years+building+production+Spring+Boot+services;Closed+9+High-severity+security+findings;Building+an+AI-powered+job-application+platform" alt="Typing SVG" />
 </a>
 
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to Work"/>
+
 <p>
 <a href="https://www.linkedin.com/in/md-farazul-haque-b42200127/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
