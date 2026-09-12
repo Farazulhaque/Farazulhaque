@@ -18,7 +18,11 @@
 </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Farazulhaque&label=Profile%20Views&color=2bbc8a&style=flat" alt="Profile views"/>
+
 </div>
+
+<br>
 
 ## About Me
 
@@ -58,17 +62,27 @@
 <img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" alt="Most Used Languages" width="100%"/>
 </td>
 </tr>
+<tr>
+<td width="60%">
+<img src="https://streak-stats.demolab.com/?user=Farazulhaque&theme=soft-green" alt="GitHub Streak" width="100%"/>
+</td>
+<td width="40%">
+<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="WakaTime Stats" width="100%"/>
+</td>
+</tr>
 </table>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Farazulhaque&theme=soft-green" alt="GitHub Streak"/>
-</div>
-
-## WakaTime Stats
 
 <a href="https://wakatime.com/@fd3688b2-248b-4941-a1e6-b74fc01f5910"><img src="https://wakatime.com/badge/user/fd3688b2-248b-4941-a1e6-b74fc01f5910.svg?style=for-the-badge" alt="Total time coded since Jul 18 2021"/></a>
 
-<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
+<br>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farazulhaque/Farazulhaque/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farazulhaque/Farazulhaque/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Farazulhaque/Farazulhaque/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 
