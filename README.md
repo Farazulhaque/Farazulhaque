@@ -1,67 +1,82 @@
-<br>
-<div id="header" align="center" style="width: 100%; margin: auto;">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px"/>
-<div id="badges">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,100:1d1f21&height=200&section=header&text=Md%20Farazul%20Haque&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Java%20%2F%20Spring%20Boot&descAlignY=60&descSize=20" width="100%"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BBC8A&center=true&vCenter=true&width=650&lines=4.5%2B+years+building+production+Spring+Boot+services;Closed+9+High-severity+security+findings;Building+an+AI-powered+job-application+platform" alt="Typing SVG" />
+</a>
+
+<p>
 <a href="https://www.linkedin.com/in/md-farazul-haque-b42200127/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://api.whatsapp.com/send?phone=917596885401&text=Hi%20there!%20I%20have%20a%20question%20:%29">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&label= &message=WhatsApp&color=Green" alt="Whatsapp Badge"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
+<a href="https://www.naukri.com/mnjuser/profile">
+<img src="https://img.shields.io/badge/Naukri-FF7555?style=for-the-badge&logo=naukri&logoColor=white" alt="Naukri"/>
+</a>
+</p>
+
 </div>
-<h1>Hello, Friends!</h1>
+
+## About Me
+
+- 👨‍💻 **Backend Software Engineer** at ARC Document Solutions with **4.5+ years** of experience, owning production Spring Boot microservices end-to-end.
+- 🔒 **Security-first engineering** — closed **9 High-severity security findings** (auth, CSRF, IDOR, SSRF) across two full adversarial codebase audits, and built a full-stack support ticketing platform (Spring Boot, React, AWS S3) now running in production.
+- ☁️ **Cloud & reliability** — shipped integrations across AWS (ECS, Lambda, SQS, S3) and Azure Blob Storage, and root-caused several live production incidents (Kubernetes, ClickHouse, SQL) end-to-end.
+- 🌱 **Currently building** — an AI-powered job-application automation platform (Java, Spring Boot, Selenium, Spring AI + Google Gemini) that auto-applies to relevant roles and answers recruiter chatbot questions.
+- 👯 **Open to collaborating** on backend, full-stack, or AI-assisted tooling projects — Java/Spring Boot ecosystem, secure API design, or LLM-powered automation.
+- 🤔 **Currently deepening** expertise in distributed systems, security engineering, and applied AI (LLM tool-use, agentic workflows).
+
+<br>
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css&theme=dark" />
+
+**Databases & Messaging**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,cassandra,elasticsearch,rabbitmq&theme=dark" />
+
+**Cloud, DevOps & Security**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,linux,githubactions&theme=dark" />
+
+<br>
+
+## GitHub Analytics
+
+<table>
+<tr>
+<td width="60%">
+<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api?username=Farazulhaque&show_icons=true&line_height=30&hide=contribs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faraz's GitHub Stats" width="100%"/>
+</td>
+<td width="40%">
+<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" alt="Most Used Languages" width="100%"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=Farazulhaque&theme=soft-green" alt="GitHub Streak"/>
 </div>
 
-- 👨‍💻 **Professional Experience:** Backend Software Engineer at ARC Document Solutions with **4.5+ years** of experience, owning production Spring Boot microservices end-to-end.
+## WakaTime Stats
 
-- 🔒 **Security-first engineering:** Closed **9 High-severity security findings** (auth, CSRF, IDOR, SSRF) across two full adversarial codebase audits, and built a full-stack support ticketing platform (Spring Boot, React, AWS S3) now running in production.
+<a href="https://wakatime.com/@fd3688b2-248b-4941-a1e6-b74fc01f5910"><img src="https://wakatime.com/badge/user/fd3688b2-248b-4941-a1e6-b74fc01f5910.svg?style=for-the-badge" alt="Total time coded since Jul 18 2021"/></a>
 
-- ☁️ **Cloud & reliability:** Shipped cloud integrations across AWS (ECS, Lambda, SQS, S3) and Azure Blob Storage, and root-caused several live production incidents (Kubernetes, ClickHouse, SQL) end-to-end.
+<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
 
-- 🌱 **Currently building:** An AI-powered job-application automation platform (Java, Spring Boot, Selenium, Spring AI + Google Gemini) that auto-applies to relevant roles and answers recruiter chatbot questions.
+<br>
 
-- 👯 **Collaboration Interests:** Always up for collaborating on backend, full-stack, or AI-assisted tooling projects -- Java/Spring Boot ecosystem, secure API design, or LLM-powered automation.
+<div align="center">
 
-- 🤔 **Development Aspirations:** Deepening expertise in distributed systems, security engineering, and applied AI (LLM tool-use, agentic workflows).
+### 📫 Let's Connect
 
-- 📫 **Contact Information:**
-- Linkedin - [Md Farazul Haque](https://www.linkedin.com/in/md-farazul-haque-b42200127/)
-- Whatsapp - [+91-7596885401](https://api.whatsapp.com/send?phone=917596885401&text=Hi%20there!%20I%20have%20a%20question%20:%29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Farazul_Haque-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-farazul-haque-b42200127/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91_7596885401-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917596885401&text=Hi%20there!%20I%20have%20a%20question%20:%29)
 
-## Technologies & Tools
-
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-1572B6?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Cassandra-informational?style=flat&logo=cassandra&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Gremlin-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Solr-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/AI-SpringAI%20%2F%20Gemini-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
-
-## Most Used Languages
-
-<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/top-langs/?username=Farazulhaque&hide=jupyter%20notebook&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
-
-## Waka Time Stats
-
-<a href="https://wakatime.com/@fd3688b2-248b-4941-a1e6-b74fc01f5910"><img src="https://wakatime.com/badge/user/fd3688b2-248b-4941-a1e6-b74fc01f5910.svg?style=plastic" alt="Total time coded since Jul 18 2021" align="right"/></a>
-<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api/wakatime?username=Farazulhaque&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-
-## GitHub Stats
-
-<img src="https://github-readme-stats-beta-gilt-79.vercel.app/api?username=Farazulhaque&show_icons=true&line_height=30&hide=contribs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faraz's GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=Farazulhaque&theme=soft-green" />
+</div>
